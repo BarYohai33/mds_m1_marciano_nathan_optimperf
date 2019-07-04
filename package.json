@@ -4,8 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-      "start": "npm install -D nodemon",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "install": "npm install -D nodemon",
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
